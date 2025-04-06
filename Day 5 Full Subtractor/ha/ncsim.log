@@ -1,0 +1,23 @@
+ncsim: 10.20-s100: (c) Copyright 1995-2011 Cadence Design Systems, Inc.
+
+-------------------------------------
+Relinquished control to SimVision...
+ncsim> 
+ncsim> database -open waves -into waves.shm -default
+Created default SHM database waves
+ncsim> probe -create -shm full_subtractor_ha_tb.a full_subtractor_ha_tb.b full_subtractor_ha_tb.bin full_subtractor_ha_tb.bout full_subtractor_ha_tb.diff
+Created probe 1
+ncsim> run
+Time=                   0 a=0 b=0 bin=0 diff=0 bout=0
+Time=                  10 a=0 b=0 bin=1 diff=1 bout=1
+Time=                  20 a=0 b=1 bin=0 diff=1 bout=1
+Time=                  30 a=0 b=1 bin=1 diff=0 bout=1
+Time=                  40 a=1 b=0 bin=0 diff=1 bout=0
+Time=                  50 a=1 b=0 bin=1 diff=0 bout=0
+Time=                  60 a=1 b=1 bin=0 diff=0 bout=0
+Time=                  70 a=1 b=1 bin=1 diff=1 bout=1
+Simulation complete via $finish(1) at time 80 NS + 0
+./full_subtractor_ha_tb.v:26 	$finish;
+ncsim> ncsim: Memory Usage - 20.7M program + 35.9M data = 56.5M total
+ncsim: CPU Usage - 32.6s system + 56.5s user = 89.1s total (15847.0s, 0.6% cpu)
+.7% cpu)

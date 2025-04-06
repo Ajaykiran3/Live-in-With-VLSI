@@ -1,0 +1,10 @@
+module half_adder_hs(a,b,sum,cout);
+
+	input a,b;
+	output sum,cout;
+	wire [1:0]w;
+
+	not N1(w[0],a);
+	half_subtractor_g HA1(a,w[0],w[1],cout);
+	not N2(sum,w[1]);
+endmodule

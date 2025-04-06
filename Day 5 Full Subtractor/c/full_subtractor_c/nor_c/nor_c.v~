@@ -1,0 +1,14 @@
+module nor_c(a,b,y);
+
+	input a,b;
+	output y;
+	supply1 vdd;
+	supply0 vss;
+
+	pmos P1(w[0],vdd,a);
+	pmos P2(y,w[0],b);
+	nmos N1(y,vss,a);
+	nmos N2(y,vss,b);
+endmodule
+
+	

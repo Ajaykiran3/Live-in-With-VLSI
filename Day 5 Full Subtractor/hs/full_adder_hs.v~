@@ -1,0 +1,11 @@
+module full_adder_hs(a,b,cin,sum,cout);
+
+	input a,b,cin;
+	output sum,cout;
+
+	not N1(w[0],a);	
+	half_subtractor_g HS1(w[0],b,w[1],w[2]);
+	half_subtractor_g HS2(w[1],cin,w[3],w[4]);
+	not N2(sum,w[3]);
+	or O1(cout,w[2],w[4]);
+endmodule

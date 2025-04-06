@@ -1,0 +1,92 @@
+*** Message Type: info ***
+When: Sat Apr 05 06:47:17 PM BDT 2025
+SimVision started.
+Version: TOOL:  simvision       10.20-s100
+User: buet
+Host: cadence
+Platform: Linux/i686/2.6.32-431.3.1.el6.i686
+Started: Sat Apr 05 06:47:17 PM BDT 2025
+Command: /home/buet/cadence/installs/INCISIV102/tools.lnx86/simvision/bin/simvision.exe -connect dc:cadence:34186
+Work Directory: /home/buet/Documents/Simulation /full subtractor/ha
+ 
+*** Message Type: info ***
+When: Sat Apr 05 06:47:17 PM BDT 2025
+Create browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Sat Apr 05 06:47:19 PM BDT 2025
+Create console window: "Console"
+ 
+*** Message Type: info ***
+When: Sat Apr 05 06:47:19 PM BDT 2025
+Connect to Simulator
+      Design: worklib.full_subtractor_ha_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:       ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Sat Apr 05 06:47:15 PM BDT 2025
+  Process ID: 24625
+   Directory: /home/buet/Documents/Simulation /full subtractor/ha
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /full adder/ha/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.full_subtractor_ha_tb:module
+
+ 
+*** Message Type: info ***
+When: Sat Apr 05 06:47:20 PM BDT 2025
+Create utility window: "Properties"
+ 
+*** Message Type: info ***
+When: Sat Apr 05 06:47:32 PM BDT 2025
+Create waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Sat Apr 05 06:48:22 PM BDT 2025
+Delete waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Sat Apr 05 11:11:21 PM BDT 2025
+Exit NC-Sim: user
+      Design: worklib.full_subtractor_ha_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:       ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Sat Apr 05 06:47:15 PM BDT 2025
+  Process ID: 24625
+   Directory: /home/buet/Documents/Simulation /full subtractor/ha
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /full adder/ha/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.full_subtractor_ha_tb:module
+
+ 
+*** Message Type: error ***
+When: Sat Apr 05 11:11:24 PM BDT 2025
+NC-Sim Crashed:
+      Design: worklib.full_subtractor_ha_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:       ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Sat Apr 05 06:47:15 PM BDT 2025
+  Process ID: 24625
+   Directory: /home/buet/Documents/Simulation /full subtractor/ha
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /full adder/ha/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.full_subtractor_ha_tb:module
+      Design: worklib.full_subtractor_ha_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:        ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Sat Apr 05 06:47:15 PM BDT 2025
+  Process ID: 24625
+   Directory: /home/buet/Documents/Simulation /full subtractor/ha
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /full adder/ha/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.full_subtractor_ha_tb:module
+
+Outstanding STRAP Requests:
+        strap::report enable out
+ 
+*** Message Type: info ***
+When: Sat Apr 05 11:11:44 PM BDT 2025
+SimVision Exit.
+ 

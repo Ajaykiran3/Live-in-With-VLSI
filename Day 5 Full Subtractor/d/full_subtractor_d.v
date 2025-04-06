@@ -1,0 +1,7 @@
+module full_subtractor_d(a,b,bin,diff,bout);
+
+	input a,b,bin;
+	output diff,bout;
+
+	assign {bout,diff}={(~a&b)|(b&bin)|(bin&~a),a^b^bin};
+endmodule

@@ -1,0 +1,20 @@
+ncsim: 10.20-s100: (c) Copyright 1995-2011 Cadence Design Systems, Inc.
+
+-------------------------------------
+Relinquished control to SimVision...
+ncsim> 
+ncsim> database -open waves -into waves.shm -default
+Created default SHM database waves
+ncsim> probe -create -shm xor_c_tb.a xor_c_tb.b xor_c_tb.y
+Created probe 1
+ncsim> run
+Time=                   0,a=0, b=0, y=0
+Time=                  10,a=0, b=1, y=1
+Time=                  20,a=1, b=0, y=1
+Time=                  30,a=1, b=1, y=0
+Simulation complete via $finish(1) at time 40 NS + 0
+./xor_c_tb.v:20         $finish;
+ncsim> ^C
+ncsim> exit
+ncsim: Memory Usage - 20.7M program + 32.0M data = 52.6M total
+ncsim: CPU Usage - 0.3s system + 4.1s user = 4.4s total (88.0s, 5.0% cpu)
