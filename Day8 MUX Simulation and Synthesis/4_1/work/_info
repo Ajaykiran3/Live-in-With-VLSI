@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1744107523
+V1ZnWS4OlSJ_f7U7Smcel;3
+Z1 04 10 4 work mux_4_1_tb fast 0
+=1-b03cdc4124d1-67f4f803-232-4dd8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1744108005
+V3X^>UacGe3?n_8Kh<4GH33
+R1
+=1-b03cdc4124d1-67f4f9e5-9b-65d8
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vmux_4_1
+Z4 !s110 1744107512
+!i10b 1
+!s100 K[=c=CYVd4mgA:I<?1IR63
+I^3@aS9Yj5aSL0=HA[YOV12
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/MUX/4_1
+w1744107508
+8D:/Questa sim projects/MUX/4_1/mux_4_1.v
+FD:/Questa sim projects/MUX/4_1/mux_4_1.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1744107512.000000
+!s107 D:/Questa sim projects/MUX/4_1/mux_4_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/MUX/4_1/mux_4_1.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmux_4_1_tb
+R4
+!i10b 1
+!s100 HeBhAnBXM?P=[d9_CA3R[1
+IM:;9>a:CCCIKY9ZLO5A1B3
+R5
+R6
+w1744106062
+8D:/Questa sim projects/MUX/4_1/mux_4_1_tb.v
+FD:/Questa sim projects/MUX/4_1/mux_4_1_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/MUX/4_1/mux_4_1_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/MUX/4_1/mux_4_1_tb.v|
+!i113 0
+R9
+R2
