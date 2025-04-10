@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1744279241
+Vg?hKc>zALmW^zdHdnaZ0_2
+Z1 04 9 4 work ha_4_1_tb fast 0
+=1-b03cdc4124d1-67f796c9-102-2904
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1744279337
+V`4a@dV3RjV5Z[AFCRNl`O0
+R1
+=1-b03cdc4124d1-67f79729-17d-6844
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vha_4_1
+Z4 !s110 1744279232
+!i10b 1
+!s100 ;n5]?PIb93Hb158F>3VaQ3
+IHWH3BZOAVF;6:D>FoZ3A;2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/Half adder using Mux
+Z7 w1744279224
+Z8 8D:/Questa sim projects/Half adder using Mux/ha_4_1.vhd
+Z9 FD:/Questa sim projects/Half adder using Mux/ha_4_1.vhd
+L0 1
+Z10 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z11 !s108 1744279232.000000
+Z12 !s107 D:/Questa sim projects/Half adder using Mux/ha_4_1.vhd|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Half adder using Mux/ha_4_1.vhd|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vha_4_1_tb
+R4
+!i10b 1
+!s100 =7H>]h2MCJ6lh0QOD4T>>0
+IDam5fajMXbao9WV?=L84G1
+R5
+R6
+w1744279092
+8D:/Questa sim projects/Half adder using Mux/ha_4_1_tb.vhd
+FD:/Questa sim projects/Half adder using Mux/ha_4_1_tb.vhd
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Questa sim projects/Half adder using Mux/ha_4_1_tb.vhd|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Half adder using Mux/ha_4_1_tb.vhd|
+!i113 0
+R14
+R2
+vmux_4_1
+R4
+!i10b 1
+!s100 kC`@a^3TU_eSfldP5ZO1X0
+IMT7Ez49G2JOlL2A[o4H0U1
+R5
+R6
+R7
+R8
+R9
+L0 8
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
