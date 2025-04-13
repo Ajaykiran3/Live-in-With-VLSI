@@ -1,0 +1,18 @@
+module hs_4_1_tb();
+	reg a,b;
+	wire diff,bout;
+	integer i;
+	hs_4_1 HS1(a,b,diff,bout);
+	initial begin
+	$monitor("Time = %0t a=%0b b=%b diff=%0b bout=%0b",a,b,diff,bout);
+	end
+	initial begin
+	for(i=0;i<2;i=i+1)begin
+		a=i;
+		for(j=0;j<2;j=j+1)begin
+			b=j;
+			#5;
+		end
+	end
+	end
+endmodule

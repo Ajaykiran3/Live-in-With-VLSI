@@ -1,0 +1,16 @@
+{D:/Questa sim projects/Full adder using MUX 8X1/fa_8_1_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/Full adder using MUX 8X1/fa_8_1_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module fa_8_1_tb
+
+Top level modules:
+	fa_8_1_tb
+
+} {} {}} {D:/Questa sim projects/Full adder using MUX 8X1/fa_8_1.v} {1 {vlog -work work -vopt -stats=none {D:\Questa sim projects\Full adder using MUX 8X1\fa_8_1.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module fa_8_1
+-- Compiling module mux_8_1
+
+Top level modules:
+	fa_8_1
+
+} {} {}}

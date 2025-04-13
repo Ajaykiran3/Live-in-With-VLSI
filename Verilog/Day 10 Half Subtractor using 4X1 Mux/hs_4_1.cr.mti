@@ -1,0 +1,16 @@
+{D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module hs_4_1
+-- Compiling module mux_4_1
+
+Top level modules:
+	hs_4_1
+
+} {} {}} {D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module hs_4_1_tb
+
+Top level modules:
+	hs_4_1_tb
+
+} {} {}}

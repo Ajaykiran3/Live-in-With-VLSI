@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1744290502
+VE374hHI9ia`bQW:0M8;6j1
+Z1 04 9 4 work hs_4_1_tb fast 0
+=1-5c60ba5d7874-67f7c2c6-127-21b0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1744290601
+VWbQO?_oe:U2fNiA9HN_a62
+R1
+=1-5c60ba5d7874-67f7c329-2b3-a54
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vhs_4_1
+Z4 !s110 1744290493
+!i10b 1
+!s100 EnBfJc8X@DiVFo9;E5RRJ2
+IjWOeUiBiD[k3VhcX[ScSl0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/Half Subtractor using 4X1 Mux
+Z7 w1744290398
+Z8 8D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1.v
+Z9 FD:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1.v
+L0 1
+Z10 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z11 !s108 1744290493.000000
+Z12 !s107 D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vhs_4_1_tb
+R4
+!i10b 1
+!s100 lUHjYb@]KFJ0M_6Z49;8h0
+IK>h77cCACR?I^YKA40ETR0
+R5
+R6
+w1744290486
+8D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1_tb.v
+FD:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1_tb.v
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Half Subtractor using 4X1 Mux/hs_4_1_tb.v|
+!i113 0
+R14
+R2
+vmux_4_1
+R4
+!i10b 1
+!s100 kC`@a^3TU_eSfldP5ZO1X0
+ISWWH3=adzbG<g2KHQj8BI1
+R5
+R6
+R7
+R8
+R9
+L0 8
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
