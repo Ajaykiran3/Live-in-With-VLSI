@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1744558834
+VmQn@lXg4FWgA]SWnl^]Ql3
+Z1 04 9 4 work fs_8_1_tb fast 0
+=1-b03cdc4124d1-67fbdaf2-e7-41a4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1744558976
+V<1BUI:fWKU1RZ89^@@3950
+R1
+=1-b03cdc4124d1-67fbdb7f-3d7-2570
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vfs_8_1
+Z4 !s110 1744558819
+!i10b 1
+!s100 6EPC>8^_96ZM`0Li9OHda1
+ILzWdn>fQRH17lgc7@flaK3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/Full Subtractor using MUX 8X1
+Z7 w1744558557
+Z8 8D:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1.v
+Z9 FD:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1.v
+L0 1
+Z10 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z11 !s108 1744558819.000000
+Z12 !s107 D:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfs_8_1_tb
+R4
+!i10b 1
+!s100 35229=[6P2O1I^]M1ZMcF1
+If1?zK[`8^e@AGWAaO;h@93
+R5
+R6
+w1744558809
+8D:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1_tb.v
+FD:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1_tb.v
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Full Subtractor using MUX 8X1/fs_8_1_tb.v|
+!i113 0
+R14
+R2
+vmux_8_1
+R4
+!i10b 1
+!s100 D8L`H>P<NdW15fEl6O46j2
+I36@mhQ_doAN@^a:kLTMhZ0
+R5
+R6
+R7
+R8
+R9
+L0 10
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
