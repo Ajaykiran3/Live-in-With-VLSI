@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1745324662
+VUoGDn:`Cj6W`WV;[1Z>ZR3
+Z1 04 14 4 work encoder_8_3_tb fast 0
+=1-b03cdc4124d1-68078a76-22d-1584
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1745324836
+Vec_mL?8zm19;:]CVAj98>3
+R1
+=1-b03cdc4124d1-68078b24-a9-3154
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vencoder_8_3
+Z4 !s110 1745324635
+!i10b 1
+!s100 UBQEP5;iVn5>KHAM]XZ8g2
+If1oF9f:kcTb0VOf?PnOz93
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/Encoder 8X3
+w1745324207
+8D:/Questa sim projects/Encoder 8X3/encoder_8_3.v
+FD:/Questa sim projects/Encoder 8X3/encoder_8_3.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1745324635.000000
+!s107 D:/Questa sim projects/Encoder 8X3/encoder_8_3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Encoder 8X3/encoder_8_3.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vencoder_8_3_tb
+R4
+!i10b 1
+!s100 Aa2lVPKUe5DCB>8=PWmW;2
+ILMl`2McOLFV;1c:A:<92V3
+R5
+R6
+w1745324630
+8D:/Questa sim projects/Encoder 8X3/encoder_8_3_tb.v
+FD:/Questa sim projects/Encoder 8X3/encoder_8_3_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/Encoder 8X3/encoder_8_3_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Encoder 8X3/encoder_8_3_tb.v|
+!i113 0
+R9
+R2
