@@ -1,0 +1,15 @@
+{D:/Questa sim projects/Priority Encoder/8X3/pri_enc_8_3.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/Priority Encoder/8X3/pri_enc_8_3.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module pri_enc_8_3
+
+Top level modules:
+	pri_enc_8_3
+
+} {} {}} {D:/Questa sim projects/Priority Encoder/8X3/pri_enc_8_3_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/Priority Encoder/8X3/pri_enc_8_3_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module pri_enc_8_3_tb
+
+Top level modules:
+	pri_enc_8_3_tb
+
+} {} {}}

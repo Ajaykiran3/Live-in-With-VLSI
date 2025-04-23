@@ -1,0 +1,17 @@
+module pri_enc_8_3_tb();
+	reg [7:0]i;
+	wire [2:0]y;
+	integer a;
+	pri_enc_8_3 ENC1(i,y);
+	initial begin
+	$monitor("Time = %0t i = %0b y = %0b",$time,i,y);
+	end
+	initial begin
+	for(a=0;a<=128;a=a+1) begin
+		#5; i=a;
+	end
+	#5;
+	$finish;
+	end
+endmodule
+
