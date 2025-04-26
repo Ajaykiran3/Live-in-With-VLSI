@@ -1,0 +1,8 @@
+{D:/Questa sim projects/Decoder 3X8/decoder_3_8.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/Decoder 3X8/decoder_3_8.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module decoder_3_8
+
+Top level modules:
+	decoder_3_8
+
+} {} {}}
