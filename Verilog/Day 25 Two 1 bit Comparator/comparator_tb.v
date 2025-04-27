@@ -1,0 +1,19 @@
+module comparator_tb();
+	reg a,b;
+	wire e,g,l;
+	integer i;
+	comparator COMP(a,b,e,g,l);
+	initial
+	begin
+	$monitor("a=%b b=%b e=%b g=%b l=%b",a,b,e,g,l);
+	end
+	initial
+	begin
+	for(i=0;i<=3;i=i+1) begin
+		#5;
+		{a,b}=i;
+	end
+	#5;
+	$finish;
+	end
+endmodule

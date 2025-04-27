@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1745766551
+VmYCRDGiXKMF<cdbj0;>a42
+Z1 04 13 4 work comparator_tb fast 0
+=1-b03cdc4124d1-680e4897-90-3c6c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1745766668
+Vf5ScLo9GzeYMQl4Y_9aCH3
+R1
+=1-b03cdc4124d1-680e490c-a8-3384
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vcomparator
+Z4 !s110 1745766544
+!i10b 1
+!s100 KchGn]99d:B2Cmn2RRBAK0
+IbgYiNbzjN`6>IYV=BDaz:0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/Comparator
+w1745766210
+8D:/Questa sim projects/Comparator/comparator.v
+FD:/Questa sim projects/Comparator/comparator.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1745766544.000000
+!s107 D:/Questa sim projects/Comparator/comparator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Comparator/comparator.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcomparator_tb
+R4
+!i10b 1
+!s100 `iJGbH6VLdJ2l]hLXDUBk1
+I<7Fi7eX23TTzVSfSdW;_Y1
+R5
+R6
+w1745766539
+8D:/Questa sim projects/Comparator/comparator_tb.v
+FD:/Questa sim projects/Comparator/comparator_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/Comparator/comparator_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Comparator/comparator_tb.v|
+!i113 0
+R9
+R2

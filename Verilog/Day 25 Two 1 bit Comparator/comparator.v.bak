@@ -1,0 +1,10 @@
+module comparator(
+	input a,b,
+	output reg e,g,l);
+	always@(*)
+	begin
+	if(a==b) {e,g,l} = 3'b100;
+	else if(a>b) {e,g,l] = 3'b010;
+	else(a<b) {e,g,l} = 3'b001;
+	end
+endmodule
