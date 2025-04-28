@@ -1,0 +1,19 @@
+module bcd_to_ex3_tb();
+	reg [3:0]bcd;
+	wire [3:0]ex3;
+	bcd_to_ex3 BCD_TO_EX3 (bcd,ex3);
+	integer i;
+	initial
+	begin
+	$monitor("Time = %0t BCD = %b Excess 3 = %b",$time,bcd,ex3);
+	end
+	initial
+	begin
+	for(i=0;i<=9;i=i+1) begin
+		bcd=i;
+		#5;
+	end
+	#5;
+	$finish;
+	end
+endmodule

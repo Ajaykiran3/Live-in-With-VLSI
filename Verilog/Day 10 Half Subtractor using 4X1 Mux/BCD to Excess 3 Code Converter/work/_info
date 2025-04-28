@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1745856413
+VHRX7OBQk]CHC03GQAiXKB1
+Z1 04 13 4 work bcd_to_ex3_tb fast 0
+=1-5c60ba5d7874-680fa79d-1e1-4e28
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1745856535
+V56NNUQ]j^]ddRjGkzdnXX3
+R1
+=1-5c60ba5d7874-680fa817-12d-3930
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vbcd_to_ex3
+Z4 !s110 1745856405
+!i10b 1
+!s100 277QRgoL?Z:YF7C0=Edh61
+I?DTohZdZc_<93F4`[[a1T0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/BCD to Excess 3 Code Converter
+w1745856111
+8D:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3.v
+FD:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1745856405.000000
+!s107 D:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vbcd_to_ex3_tb
+R4
+!i10b 1
+!s100 T:8;AdPB:5:XWalNE0@dL2
+IH;m7n9EL^7YVX63fmfo[C0
+R5
+R6
+w1745856401
+8D:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3_tb.v
+FD:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/BCD to Excess 3 Code Converter/bcd_to_ex3_tb.v|
+!i113 0
+R9
+R2
