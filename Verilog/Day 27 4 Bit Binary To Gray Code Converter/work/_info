@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1745936379
+VZNoa3>HT1Q5K>J7HRzQ`V3
+Z1 04 14 4 work bin_to_gray_tb fast 0
+=1-b03cdc4124d1-6810dffa-3d8-4778
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1745936650
+VdazD8T=8BdZTkco_?NfeZ0
+R1
+=1-b03cdc4124d1-6810e10a-b1-1254
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vbin_to_gray
+Z4 !s110 1745936371
+!i10b 1
+!s100 CkEjkNAS;AT38CmES0Q=;1
+IV=^cz]K54@FS58e:X;X[l0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/Binary To Gray Code Converter
+w1745936081
+8D:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray.v
+FD:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1745936371.000000
+!s107 D:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vbin_to_gray_tb
+R4
+!i10b 1
+!s100 c^4WdPAI>bWLGYc^Y?Gl93
+I1UmFiMSmKS^N==Tf?WnIQ0
+R5
+R6
+w1745936367
+8D:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray_tb.v
+FD:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/Binary To Gray Code Converter/bin_to_gray_tb.v|
+!i113 0
+R9
+R2
