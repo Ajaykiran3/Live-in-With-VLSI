@@ -1,0 +1,18 @@
+module gray_to_bin_tb();
+	reg [3:0]gray;
+	wire [3:0]bin;
+	integer i;
+	gray_to_bin GRAY_TO_BIN(gray,bin);
+	initial begin
+	$monitor("Time = %0t Gray = %0b Bin =%0b",$time,gray,bin);
+	end
+	initial begin
+	for(i=0;i<=15;i=i+1) begin
+		gray = i;
+		#5;
+	end
+	#5;
+	$finish;
+	end
+endmodule
+
