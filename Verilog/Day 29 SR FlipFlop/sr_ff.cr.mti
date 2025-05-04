@@ -1,0 +1,15 @@
+{D:/Questa sim projects/SR FlipFlop/sr_ff.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/SR FlipFlop/sr_ff.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module sr_ff
+
+Top level modules:
+	sr_ff
+
+} {} {}} {D:/Questa sim projects/SR FlipFlop/sr_ff_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/SR FlipFlop/sr_ff_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module sr_ff_tb
+
+Top level modules:
+	sr_ff_tb
+
+} {} {}}
