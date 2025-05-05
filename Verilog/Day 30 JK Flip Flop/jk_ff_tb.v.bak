@@ -1,0 +1,27 @@
+module jk_ff_tb();
+	reg clk,rst,j,k;
+	wire q,q_bar;
+	jk_ff JK_FF(clk,rst,j,k,q,q_bar);
+	initial begin
+	$monitor("Time = %0t Clk = %0b RST = %0b J = %0b K = %0b Q = %0b Q_bar = %0b",$time,clk,rst,j,k,q,q_bar);
+	end
+	initia
+	initial begin
+	{j,k,rst} = 3'd2;
+	#10;
+	{j,k,rst} = 3'd1;
+	#10;
+	{j,k,rst} = 3'd6;
+	#10;
+	{j,k,rst} = 3'd7;
+	#10;
+	{j,k,rst} = 3'd5;
+	#10;
+	{j,k,rst} = 3'd2;
+	#10;
+	{j,k,rst} = 3'd2;
+	#10;
+	#10;
+	$finish;
+	end
+endmodule	

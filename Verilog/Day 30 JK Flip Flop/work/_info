@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1746420665
+V_cdP1f3f1Yf8TQ6D?H7[Y3
+Z1 04 8 4 work jk_ff_tb fast 0
+=1-b03cdc4124d1-681843b8-307-1f28
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1746420819
+VUhF;Ln9[SeK8P^C4I20^a0
+R1
+=1-b03cdc4124d1-68184453-146-2edc
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vjk_ff
+Z4 !s110 1746420657
+!i10b 1
+!s100 7Vln_k;Q_`Y7>O;DlGdbZ3
+IRPkM=n^nT]zFHl8m;jP[c2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/JK Flip Flop
+w1746420651
+8D:/Questa sim projects/JK Flip Flop/jk_ff.v
+FD:/Questa sim projects/JK Flip Flop/jk_ff.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1746420657.000000
+!s107 D:/Questa sim projects/JK Flip Flop/jk_ff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/JK Flip Flop/jk_ff.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vjk_ff_tb
+R4
+!i10b 1
+!s100 P:zl6j^D]W6=4][]LQM013
+I`C8cQlaIdNKUP18dS0nj00
+R5
+R6
+w1746420352
+8D:/Questa sim projects/JK Flip Flop/jk_ff_tb.v
+FD:/Questa sim projects/JK Flip Flop/jk_ff_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/JK Flip Flop/jk_ff_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/JK Flip Flop/jk_ff_tb.v|
+!i113 0
+R9
+R2
