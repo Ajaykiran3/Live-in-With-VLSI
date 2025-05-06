@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1746502403
+Vi32@z^SUBZIQabnQA?liG0
+Z1 04 7 4 work d_ff_tb fast 0
+=1-b03cdc4124d1-68198302-2c9-3a48
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1746502505
+V=cGO4dli:;<MCC9b3IP?U3
+R1
+=1-b03cdc4124d1-68198369-47-6114
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vd_ff
+Z4 !s110 1746502392
+!i10b 1
+!s100 ;2Ok:IoJYgT=1N;bW;87F1
+IZ4;5KSlPbf3?mMeh0QaC=1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/D Flip Flop
+w1746502092
+8D:/Questa sim projects/D Flip Flop/d_ff.v
+FD:/Questa sim projects/D Flip Flop/d_ff.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1746502392.000000
+!s107 D:/Questa sim projects/D Flip Flop/d_ff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/D Flip Flop/d_ff.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vd_ff_tb
+R4
+!i10b 1
+!s100 ld2R6Dm=CGUEMF0=kzVRB1
+IH41=NnPB1hCnPzamS<=QU2
+R5
+R6
+w1746502388
+8D:/Questa sim projects/D Flip Flop/d_ff_tb.v
+FD:/Questa sim projects/D Flip Flop/d_ff_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/D Flip Flop/d_ff_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/D Flip Flop/d_ff_tb.v|
+!i113 0
+R9
+R2

@@ -1,0 +1,10 @@
+module d_ff(
+	input clk,rst,d,
+	output reg q,q_bar);
+	always@(posedge clk or posedge rst) begin
+	if(rst) q<=1'b0;
+	else q = d;
+	assign q_bar = ~q;
+	end
+endmodule
+	

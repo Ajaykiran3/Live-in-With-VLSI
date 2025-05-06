@@ -1,0 +1,9 @@
+module d_ff_tb();
+	reg clk,rst,d;
+	wire q,q_bar;
+	d_ff D_FF(clk,rst,d,q,q_bar);
+	initial begin
+	$monitor("Time = %0t Clk = %0b Rst = %0b D =%0b Q = %0b Q_bar = %0b",$time,clk,rst,d,q,q_bar);
+	end
+	initial begin
+	
