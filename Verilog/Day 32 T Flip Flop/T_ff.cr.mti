@@ -1,0 +1,17 @@
+{D:/Questa sim projects/T Flip Flop/t_ff.v} {2 {vlog -work work -vopt -stats=none {D:/Questa sim projects/T Flip Flop/t_ff.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module t_ff
+** Warning: D:/Questa sim projects/T Flip Flop/t_ff.v(5): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: D:/Questa sim projects/T Flip Flop/t_ff.v(5): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	t_ff
+
+} {} {}} {D:/Questa sim projects/T Flip Flop/t_ff_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/T Flip Flop/t_ff_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module t_ff_tb
+
+Top level modules:
+	t_ff_tb
+
+} {} {}}
