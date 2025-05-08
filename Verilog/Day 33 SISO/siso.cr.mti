@@ -1,0 +1,8 @@
+{D:/Questa sim projects/SISO/siso.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/SISO/siso.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module siso
+
+Top level modules:
+	siso
+
+} {} {}}
