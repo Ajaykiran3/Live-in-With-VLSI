@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1746870194
+VDk3RoCAAl3B9:iMoSTO@l1
+Z1 04 7 4 work sipo_tb fast 0
+=1-b03cdc4124d1-681f1fb2-2a9-6228
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1746870232
+VH^_cfkiEYd^cUCVN_jhnW2
+R1
+=1-b03cdc4124d1-681f1fd8-191-32e8
+Z4 o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1746869973
+VVPM2B33A:fMn>7IO3IReQ2
+04 4 4 work sipo fast 0
+=1-b03cdc4124d1-681f1ed5-105-56bc
+R4
+R2
+n@_opt2
+R3
+R0
+vsipo
+Z5 !s110 1746870185
+!i10b 1
+!s100 7[E[2QiUngLQ[6@M7n?fi1
+ImY>@EEhCRlM7OlGZeEaK61
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 dD:/Questa sim projects/SIPO
+w1746869797
+8D:/Questa sim projects/SIPO/sipo.v
+FD:/Questa sim projects/SIPO/sipo.v
+L0 1
+Z8 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z9 !s108 1746870185.000000
+!s107 D:/Questa sim projects/SIPO/sipo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/SIPO/sipo.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vsipo_tb
+R5
+!i10b 1
+!s100 FI1Z@UOhMdZ;n^d3kSz3<1
+I=AWj0K92h>WJ3G1m2=1JV2
+R6
+R7
+w1746870176
+8D:/Questa sim projects/SIPO/sipo_tb.v
+FD:/Questa sim projects/SIPO/sipo_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/Questa sim projects/SIPO/sipo_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/SIPO/sipo_tb.v|
+!i113 0
+R10
+R2

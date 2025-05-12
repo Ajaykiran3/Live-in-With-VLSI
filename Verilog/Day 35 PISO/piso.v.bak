@@ -1,0 +1,24 @@
+module piso(
+	input clk,rst,direction,
+	parameter N,
+	input [N-1:0] din,
+	output reg dout);
+	always@(posedge clk)
+	begin
+	if(rst) begin
+	din<=0000; end
+	else begin
+	if (direction) begin
+	din <= din << 1;
+	dout <= din[N-2];
+	end
+	else begin
+	din <= din >> 1;
+	dout <= din[1];
+	end
+	end
+endmodule
+
+	
+
+
