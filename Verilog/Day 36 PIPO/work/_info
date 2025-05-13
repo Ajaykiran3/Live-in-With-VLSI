@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1747127091
+V^7TBfZXNF5EJZ7;NG8Ya81
+Z1 04 7 4 work pipo_tb fast 0
+=1-b03cdc4124d1-68230b33-272-5e8c
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1747127147
+V_igf]1i:YmT?gV>W8bH@m2
+R1
+=1-b03cdc4124d1-68230b6b-d4-2ef0
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1747127219
+V3f2PM[>`H<ecHL>HKlC@N3
+R1
+=1-b03cdc4124d1-68230bb3-376-4fa8
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt2
+R3
+vpipo
+Z4 !s110 1747127084
+!i10b 1
+!s100 TDo]PN[NTbBHC[ozfYkbB0
+I7<1ZN1cJf`906an3jTg9K2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/PIPO
+w1747126907
+8D:/Questa sim projects/PIPO/pipo.v
+FD:/Questa sim projects/PIPO/pipo.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1747127084.000000
+!s107 D:/Questa sim projects/PIPO/pipo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/PIPO/pipo.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vpipo_tb
+R4
+!i10b 1
+!s100 CnD>;3h=??46E;@HG5`M51
+I2`h?BYO1R_Ekh:8BT88@F2
+R5
+R6
+w1747127080
+8D:/Questa sim projects/PIPO/pipo_tb.v
+FD:/Questa sim projects/PIPO/pipo_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/PIPO/pipo_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/PIPO/pipo_tb.v|
+!i113 0
+R9
+R2
