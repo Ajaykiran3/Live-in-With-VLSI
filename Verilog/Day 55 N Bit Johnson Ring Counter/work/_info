@@ -1,0 +1,84 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1753684352
+VP0:5DTbdW`=E0n1KCdW_20
+Z1 04 24 4 work n_bit_johnson_counter_tb fast 0
+=1-b03cdc4124d1-68871980-211-2c98
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1753684501
+V=]1z?9a9]cL@H9Lz8nJhT3
+R1
+=1-b03cdc4124d1-68871a15-1a1-35e0
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1753684642
+VVd=[Q7cOC4g29W6:bG2DX1
+04 21 4 work n_bit_johnson_counter fast 0
+=1-b03cdc4124d1-68871aa2-238-2a6c
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt2
+R3
+vn_bit_johnson_counter
+Z4 !s110 1753684343
+!i10b 1
+!s100 T?k1R<E^;ic?c47aQfLYL2
+I1>PThY9i_HJA3:Wfz;Ro01
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/N Bit Johnson Ring Counter
+w1753684231
+8D:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter.v
+FD:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1753684342.000000
+!s107 D:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vn_bit_johnson_counter_tb
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+R4
+!i10b 1
+!s100 a]M@>3b3H:^bm?zfk0lUO0
+I:B9[JFc=D00EF45LT7fZ:0
+R5
+!s105 n_bit_johnson_counter_tb_v_unit
+S1
+R6
+w1753684335
+8D:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter_tb.v
+FD:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1753684343.000000
+!s107 D:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Questa sim projects/N Bit Johnson Ring Counter/n_bit_johnson_counter_tb.v|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2

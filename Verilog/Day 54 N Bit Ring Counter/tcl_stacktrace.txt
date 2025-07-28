@@ -1,0 +1,33 @@
+Mon Jul 28 11:35:33 IST 2025
+Trace back: Could not open the database because no design is currently loaded.
+    while executing
+"error $msg "
+    (procedure "DebugDB::ErrorForVsim" line 15)
+    invoked from within
+"DebugDB::ErrorForVsim $isSchematic"
+    (procedure "DebugDB::FindSignalInContextTable" line 15)
+    invoked from within
+"DebugDB::FindSignalInContextTable 0 $sig $isSchematic"
+    (procedure "objExists" line 8)
+    invoked from within
+"objExists $currentEnv [guiIsSchematic]"
+    (object "::.main_pane.schematic.interior.cs.body.pw.df.c" method "::vsimwidgets::Dataflow::updateFullView" body line 13)
+    invoked from within
+"updateFullView $windowobj"
+    (object "::.main_pane.schematic.interior.cs.body.pw.df.c" method "::vsimwidgets::Dataflow::toggleViewMode" body line 21)
+    invoked from within
+"::.main_pane.schematic.interior.cs.body.pw.df.c toggleViewMode"
+    (in namespace inscope "::vsimwidgets::Dataflow" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Dataflow {::.main_pane.schematic.interior.cs.body.pw.df.c toggleViewMode}"
+    invoked from within
+".main_pane.schematic.interior.cs.body.pw.df.vmode invoke"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel #0 [list $w invoke]"
+    (procedure "tk::ButtonUp" line 24)
+    invoked from within
+"tk::ButtonUp .main_pane.schematic.interior.cs.body.pw.df.vmode"
+    (command bound to event)
+  <2:D:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/win64/tk8.6/bgerror.tcl:106: ::tkerror {Could not open the database because no design is currently loaded.}
+  <1:eval:1: ::tk::dialog::error::bgerror {Could not open the database because no design is currently loaded.}
