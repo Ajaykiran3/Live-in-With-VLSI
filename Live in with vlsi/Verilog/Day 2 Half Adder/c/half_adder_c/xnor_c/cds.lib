@@ -1,0 +1,2 @@
+define worklib "/home/buet/Documents/Simulation /Halfadder/c/half_adder_c/xnor_c/INCA_libs/worklib"
+include $CDS_INST_DIR/tools/inca/files/cds.lib

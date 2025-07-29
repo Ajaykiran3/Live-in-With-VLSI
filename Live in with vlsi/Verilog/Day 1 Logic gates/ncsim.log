@@ -1,0 +1,20 @@
+ncsim: 10.20-s100: (c) Copyright 1995-2011 Cadence Design Systems, Inc.
+
+-------------------------------------
+Relinquished control to SimVision...
+ncsim> 
+ncsim> database -open waves -into waves.shm -default
+Created default SHM database waves
+ncsim> probe -create -shm logic_gates_tb.y logic_gates_tb.b logic_gates_tb.a
+Created probe 1
+ncsim> run
+Time=0 a=0 b=0 y=0011111000
+Time=10 a=0 b=1 y=1001001110
+Time=20 a=1 b=0 y=0110001110
+Time=30 a=1 b=1 y=1100100011
+Simulation complete via $finish(1) at time 60 NS + 0
+./logic_gates_tb.v:14     $finish;
+ncsim> ^C
+ncsim> exit
+ncsim: Memory Usage - 20.7M program + 32.2M data = 52.9M total
+ncsim: CPU Usage - 0.6s system + 4.0s user = 4.7s total (106.5s, 4.4% cpu)

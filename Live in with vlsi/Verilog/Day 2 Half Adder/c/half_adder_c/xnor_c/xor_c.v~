@@ -1,0 +1,20 @@
+module xor_c(a,b,y);
+
+	input a,b;
+	output y;
+	supply1 vdd;
+	supply0 vss;
+	wire [4:0]w;
+
+	not_c NOT1(a,w[0]);
+	not_c NOT2(a,w[1]);
+	pmos P1(w[2],vdd,w[0]);
+	pmos P2(w[2],vdd,b);
+	pmos P3(y,w[2],w[1]);
+	pmos P4(y,w[2],a);
+	nmos N1(y,w[3],b);
+	nmos N2(w[3],vss,w[0]);
+	nmos N3(y,w[4],w[1]);
+	nmos N4(w[4],vss,a);
+endmodule
+	

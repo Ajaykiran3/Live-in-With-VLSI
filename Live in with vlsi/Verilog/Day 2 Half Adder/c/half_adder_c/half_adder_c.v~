@@ -1,0 +1,8 @@
+module half_adder_c(a,b,sum,cout);
+
+	input a,b;
+	output sum,cout;
+	supply1 vdd;
+	supply0 vss;
+
+	

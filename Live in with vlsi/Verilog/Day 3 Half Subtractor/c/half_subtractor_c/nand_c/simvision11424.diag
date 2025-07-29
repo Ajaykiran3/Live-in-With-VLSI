@@ -1,0 +1,88 @@
+*** Message Type: info ***
+When: Wed Apr 02 08:01:40 PM BDT 2025
+SimVision started.
+Version: TOOL:  simvision       10.20-s100
+User: buet
+Host: cadence
+Platform: Linux/i686/2.6.32-431.3.1.el6.i686
+Started: Wed Apr 02 08:01:40 PM BDT 2025
+Command: /home/buet/cadence/installs/INCISIV102/tools.lnx86/simvision/bin/simvision.exe -connect dc:cadence:44628
+Work Directory: /home/buet/Documents/Simulation /Halfadder/c/nand_c
+ 
+*** Message Type: info ***
+When: Wed Apr 02 08:01:41 PM BDT 2025
+Create browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Wed Apr 02 08:01:42 PM BDT 2025
+Create console window: "Console"
+ 
+*** Message Type: info ***
+When: Wed Apr 02 08:01:42 PM BDT 2025
+Connect to Simulator
+      Design: worklib.nand_c_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Wed Apr 02 08:01:39 PM BDT 2025
+  Process ID: 11421
+   Directory: /home/buet/Documents/Simulation /Halfadder/c/nand_c
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /Halfadder/c/nand_c/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.nand_c_tb:module
+
+ 
+*** Message Type: info ***
+When: Wed Apr 02 08:01:43 PM BDT 2025
+Create utility window: "Properties"
+ 
+*** Message Type: info ***
+When: Wed Apr 02 08:02:09 PM BDT 2025
+Create waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Wed Apr 02 08:03:05 PM BDT 2025
+Delete waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Wed Apr 02 08:03:12 PM BDT 2025
+Exit NC-Sim: user
+      Design: worklib.nand_c_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Wed Apr 02 08:01:39 PM BDT 2025
+  Process ID: 11421
+   Directory: /home/buet/Documents/Simulation /Halfadder/c/nand_c
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /Halfadder/c/nand_c/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.nand_c_tb:module
+
+ 
+*** Message Type: error ***
+When: Wed Apr 02 08:03:19 PM BDT 2025
+NC-Sim Crashed:
+      Design: worklib.nand_c_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Wed Apr 02 08:01:39 PM BDT 2025
+  Process ID: 11421
+   Directory: /home/buet/Documents/Simulation /Halfadder/c/nand_c
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /Halfadder/c/nand_c/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.nand_c_tb:module
+      Design: worklib.nand_c_tb:module
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   10.20-s100
+        User: buet
+        Host: cadence
+Time Started: Wed Apr 02 08:01:39 PM BDT 2025
+  Process ID: 11421
+   Directory: /home/buet/Documents/Simulation /Halfadder/c/nand_c
+     Command: ncsim -gui -cdslib {/home/buet/Documents/Simulation /Halfadder/c/nand_c/cds.lib} -logfile ncsim.log -errormax 15 -status worklib.nand_c_tb:module
+
+Outstanding STRAP Requests:
+        strap::report enable out
+ 

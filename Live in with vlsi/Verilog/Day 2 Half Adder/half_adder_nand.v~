@@ -1,0 +1,12 @@
+module half_adder_nand(a,b,sum,cout);
+
+	input a,b;
+	output sum,cout;
+	wire [2:0]w;
+
+	nand NA1(w[0],a,b);
+	nand NA2(w[1],a,w[0]);
+	nand NA3(w[2],b,w[0]);
+	nand NA4(sum,w[2:1]);
+	nand NA5(cout,w[0],w[0]);
+endmodule
