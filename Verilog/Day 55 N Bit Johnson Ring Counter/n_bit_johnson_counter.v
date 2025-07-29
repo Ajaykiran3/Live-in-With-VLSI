@@ -1,0 +1,14 @@
+module n_bit_johnson_counter #(parameter N = 4) (
+    input clk,
+    input reset_n,              
+    output reg [N-1:0] q
+);
+
+always @(posedge clk or negedge reset_n) begin
+    if (!reset_n)
+        q <= {{(N-1){1'b0}}, 1'b1};  
+    else
+        q <= {q[N-2:0], ~q[N-1]};     
+end
+
+endmodule

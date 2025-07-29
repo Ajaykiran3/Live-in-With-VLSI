@@ -1,0 +1,15 @@
+{D:/Questa sim projects/N Bit Ring Counter/N_Bit_ring_counter.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/N Bit Ring Counter/N_Bit_ring_counter.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module N_Bit_ring_counter
+
+Top level modules:
+	N_Bit_ring_counter
+
+} {} {}} {D:/Questa sim projects/N Bit Ring Counter/N_bit_ring_counter_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/N Bit Ring Counter/N_bit_ring_counter_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module N_bit_ring_counter_tb
+
+Top level modules:
+	N_bit_ring_counter_tb
+
+} {} {}}

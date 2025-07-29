@@ -1,0 +1,125 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1753682123
+V9IgNOboBEZ4lCgEfOAdT<1
+04 21 4 work n_bit_ring_counter_tb fast 0
+=1-b03cdc4124d1-688710ca-34d-4784
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1753683034
+V5aeLE>2QazlKjK3KMNco01
+Z4 04 21 4 work N_bit_ring_counter_tb fast 0
+=1-b03cdc4124d1-6887145a-a1-3850
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1753683240
+V828E=HUS=33z^H]Q?1=>A0
+R4
+=1-b03cdc4124d1-68871527-3af-4eac
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt2
+R3
+vn_bit_ring_counter
+Z5 !s110 1753682789
+!i10b 1
+!s100 b:89WRfZdZOTn=cGQLd[Y3
+I[n32SRWY;h[`6S7[zBma83
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 dD:/Questa sim projects/N Bit Ring Counter
+w1753681808
+8N_bit_ring_counter.v
+FN_bit_ring_counter.v
+L0 1
+Z8 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z9 !s108 1753682789.000000
+Z10 !s107 N_bit_ring_counter_tb.v|N_bit_ring_counter.v|
+Z11 !s90 -reportprogress|300|N_bit_ring_counter.v|N_bit_ring_counter_tb.v|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vN_Bit_ring_counter
+Z13 !s110 1753683008
+!i10b 1
+!s100 `zgm9XP5fI5709^2f7bn51
+IG[8eAAb^MZ@9UdjKVYE1K0
+R6
+R7
+w1753682985
+8D:/Questa sim projects/N Bit Ring Counter/N_Bit_ring_counter.v
+FD:/Questa sim projects/N Bit Ring Counter/N_Bit_ring_counter.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z14 !s108 1753683008.000000
+!s107 D:/Questa sim projects/N Bit Ring Counter/N_Bit_ring_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/N Bit Ring Counter/N_Bit_ring_counter.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@n_@bit_ring_counter
+vN_bit_ring_counter_tb
+R13
+!i10b 1
+!s100 LfP8[CE141hjnmBm>I]f:0
+IGb]0SS0Xg<GY3fZ<;>WY`0
+R6
+R7
+w1753683003
+8D:/Questa sim projects/N Bit Ring Counter/N_bit_ring_counter_tb.v
+FD:/Questa sim projects/N Bit Ring Counter/N_bit_ring_counter_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+R14
+!s107 D:/Questa sim projects/N Bit Ring Counter/N_bit_ring_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/N Bit Ring Counter/N_bit_ring_counter_tb.v|
+!i113 0
+R15
+R2
+n@n_bit_ring_counter_tb
+vn_bit_ring_counter_tb
+R5
+!i10b 1
+!s100 o?S@c=Ec8cGWk<9Fzh]^b2
+IfZC3A<ASb5G;X^OV]6<Cl3
+R6
+R7
+w1753682109
+8N_bit_ring_counter_tb.v
+FN_bit_ring_counter_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
