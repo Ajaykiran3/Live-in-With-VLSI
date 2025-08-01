@@ -1,0 +1,15 @@
+{D:/Questa sim projects/BCD Counter/bcd_counter.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/BCD Counter/bcd_counter.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module bcd_counter
+
+Top level modules:
+	bcd_counter
+
+} {} {}} {D:/Questa sim projects/BCD Counter/bcd_counter_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Questa sim projects/BCD Counter/bcd_counter_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module bcd_counter_tb
+
+Top level modules:
+	bcd_counter_tb
+
+} {} {}}

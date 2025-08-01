@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/softwares/Questasim/Mentor_Graphics_QuestaSim_10.7c_x64_Downloadly.ir/examples
+T_opt
+!s110 1754011976
+VhdeUY4T7b5HfXVmBDILd[1
+Z1 04 14 4 work bcd_counter_tb fast 0
+=1-b03cdc4124d1-688c1947-3b5-63d8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1754012094
+V3j=h0MR8eN3Z^P10Il]]K3
+R1
+=1-b03cdc4124d1-688c19be-123-4e98
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vbcd_counter
+Z4 !s110 1754011967
+!i10b 1
+!s100 8ezQ^[NWTKQa1H9<alnOA1
+I<E<THW7Q29o2e@I@?_M0e3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/Questa sim projects/BCD Counter
+w1754011962
+8D:/Questa sim projects/BCD Counter/bcd_counter.v
+FD:/Questa sim projects/BCD Counter/bcd_counter.v
+L0 1
+Z7 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z8 !s108 1754011967.000000
+!s107 D:/Questa sim projects/BCD Counter/bcd_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/BCD Counter/bcd_counter.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vbcd_counter_tb
+R4
+!i10b 1
+!s100 X<Lan13QelonUHMRLT8LU2
+I5dGMbNQDE1;iJQJn4MHAW1
+R5
+R6
+w1754011063
+8D:/Questa sim projects/BCD Counter/bcd_counter_tb.v
+FD:/Questa sim projects/BCD Counter/bcd_counter_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Questa sim projects/BCD Counter/bcd_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Questa sim projects/BCD Counter/bcd_counter_tb.v|
+!i113 0
+R9
+R2
