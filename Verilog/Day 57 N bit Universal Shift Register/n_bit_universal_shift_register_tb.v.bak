@@ -1,0 +1,25 @@
+module n_bit_universal_shift_register_tb();
+	parameter N = 4;
+	reg clk,rstn;
+	reg [1:0]sel;
+	reg [N-1:0] din;
+	wire [N-1:0] out;
+	integer i;
+n_bit_universal_shift_register #(N) USR(clk,rstn,sel,din,out);
+	always #5 clk = ~clk;
+	initial begin
+	clk = 0;
+	rstn = 0;
+	din = 4'b1010;
+	end
+	initial begin
+	#10 rstn = 1;
+	for(i=0;i<=3;i=i+1)begin
+		sel = i;
+		#10;
+	end
+	$monitor("Time = %0t Clk = %0b rstn = %0b sel = %0b din = %0b out = %0b",$time,clk,rstn,sel,din,out);
+	#30;
+	$finish;
+	end
+endmodule
