@@ -1,0 +1,3 @@
+read_verilog parameterized_seq_detector.v
+synth
+write_verilog synthesized_seq_detector_netlist.v

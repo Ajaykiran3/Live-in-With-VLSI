@@ -1,0 +1,16 @@
+D:/softwares/Questa/examples/parameterized_seq_detector.v {1 {vlog -work work -vopt -stats=none D:/softwares/Questa/examples/parameterized_seq_detector.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module parameterized_seq_detector
+
+Top level modules:
+	parameterized_seq_detector
+
+} {} {}} D:/softwares/Questa/examples/parameterized_seq_detector_tb.v {2 {vlog -work work -vopt -stats=none D:/softwares/Questa/examples/parameterized_seq_detector_tb.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_parameterized_seq_detector
+** Warning: D:/softwares/Questa/examples/parameterized_seq_detector_tb.v(23): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	tb_parameterized_seq_detector
+
+} {} {}}
